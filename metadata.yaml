@@ -1,5 +1,5 @@
 _repo: Kahden-tulen-valissa-Romaani-Yhdysvaltain-kansalaissodasta_65657
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: How I escaped. Finnish
 contributor:
   translator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '48910'
     url: http://www.gutenberg.org/2009/agents/48910
     wikipedia: https://fi.wikipedia.org/wiki/Antti_Rytkönen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gunter, Archibald Clavering
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36282
     wikipedia: https://en.wikipedia.org/wiki/Archibald_Clavering_Gunter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65657#Kahden-tulen-valissa-Romaani-Yhdysvaltain-kansalaissodasta
 gutenberg_issued: '2021-06-21'
 gutenberg_type: Text
 identifiers:
